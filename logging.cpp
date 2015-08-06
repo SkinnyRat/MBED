@@ -26,6 +26,7 @@ int main()
     {
         return -1;
     }
+    
     for(int i = 1; i <= 20; i++) 
     {
         voltage     = ((ain*3.3)); 
@@ -36,4 +37,3 @@ int main()
     }
     fclose(file);
 }
-
