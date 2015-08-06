@@ -35,5 +35,6 @@ int main()
         
         wait(1.0); 
     }
+    
     fclose(file);
 }
