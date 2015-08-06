@@ -1,4 +1,4 @@
-# MBED
+# MBED Projects
 Applications for the ARM mbed microcontroller. 
 
 [1] The fan-timer controller - used to programatically turn on & off a USB fan at specified intervals. 
