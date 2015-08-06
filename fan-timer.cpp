@@ -36,6 +36,7 @@ int main()
     serial.printf("TEMPERATURE\n\r"); 
     
     // Use the buttons (with LED indicators) to increase/decrease the time that the fan is ON. 
+    
     while(1) 
     {   
         for (int i = 0; i < period; i++)
