@@ -1,5 +1,6 @@
 # MBED Projects
-Applications for the ARM mbed microcontroller. 
+
+Applications for the ARM mbed NXP LPC1768 microcontroller. 
 
 [1] The fan-timer controller - used to programatically turn on & off a USB fan at specified intervals. 
 Requires 2 separate power sources 1 USB power bank alone cannot supply enough electricity for both the fan and the LCD. 
