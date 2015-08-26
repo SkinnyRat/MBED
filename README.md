@@ -13,6 +13,7 @@ Due to space & electricity constraints the LCD & SD-card reader are not used on 
 
 <img src="https://cloud.githubusercontent.com/assets/13679090/9113132/6bd3a4d2-3c85-11e5-9efb-913e35022997.jpg" width="480px">
 
+
 References: 
-1. https://learn.sparkfun.com/tutorials/mbed-starter-kit-experiment-guide
+1. https://learn.sparkfun.com/tutorials/mbed-starter-kit-experiment-guide 
 2. https://developer.mbed.org/handbook/API-Documentation
