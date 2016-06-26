@@ -6,7 +6,7 @@
 
 <img src="https://cloud.githubusercontent.com/assets/13679090/16360731/95350fc8-3ba3-11e6-88b5-1446c8ebb7c9.JPG" width="480px"> 
 
-This smart-fan is primarily controlled by the remote-controller, and the A/C buttons increase/decrease the % of time (out of 10 minutes) that the fan is switched on, while the B button turns the fan on/off completely. The power button indicates the number of entries logged in the SD-card, while the other buttons are not currently used. 
+This smart-fan is primarily controlled by the remote-controller, and the A/C buttons increase/decrease the % of time (out of each 10 minute cycle) that the fan is switched on, while the B button turns the fan on/off completely. The power button indicates the number of entries logged in the SD-card, while the other buttons are not currently used. 
 
 The remote-controller patterns are matched against the temperature & humidity measured by the RHT03 sensor, and the smart-fan will then average out the % of time the fan is switched on based on the remote-controller patterns saved in each temperature & humidity interval. A possible addition for v3 of this smart-fan could be a light sensor as well. 
 
@@ -35,6 +35,6 @@ Requires 2 separate power sources as 1 USB power bank alone cannot supply enough
 
 ### References: 
 
-[1] https://learn.sparkfun.com/tutorials/mbed-starter-kit-experiment-guide 
+[1] Spakrfun - https://learn.sparkfun.com/tutorials/mbed-starter-kit-experiment-guide 
 
-[2] https://developer.mbed.org/handbook/API-Documentation
+[2] MBED Developers Site - https://developer.mbed.org/handbook/API-Documentation 
