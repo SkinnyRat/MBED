@@ -1,1 +1,10 @@
-MBED NXP LPC1768 MicroController 
+1.  ARM-MBED NXP LPC1768 MicroController 
+2.  Transistor - NPN (2N3904) 
+3.  SPDT Mini Power Switch 
+4.  Sparkfun USB Type-A Breakout 
+5.  Sparkfun USB Mini-B Breakout 
+6.  RHT03 Humidity + Temperature Sensor 
+7.  TSOP38238 IR Receiver Diode 
+8.  Sparkfun microSD Transflash Breakout 
+9.  Spakrfun Infrared Remote Control 
+10. Circuit-Board + Stackable Headers 
