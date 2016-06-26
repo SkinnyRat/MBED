@@ -1,10 +1,11 @@
-# MBED Projects
+# MBED USB-FAN
+
 
 ## Smart Fan, v2.00 
 
 <img src="https://cloud.githubusercontent.com/assets/13679090/16360731/95350fc8-3ba3-11e6-88b5-1446c8ebb7c9.JPG" width="480px"> 
 
-Description
+Description goes here. 
 
 
 
@@ -22,4 +23,5 @@ Requires 2 separate power sources as 1 USB power bank alone cannot supply enough
 [1] https://learn.sparkfun.com/tutorials/mbed-starter-kit-experiment-guide 
 
 [2] https://developer.mbed.org/handbook/API-Documentation
+
 
