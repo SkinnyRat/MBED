@@ -1,5 +1,6 @@
 # MBED USB-FAN
 
+<br/> 
 
 ## Smart Fan, v2.00 
 
@@ -7,7 +8,7 @@
 
 Description goes here. 
 
-
+<br/> 
 
 ## Smart Fan, v1.00  
 
@@ -16,7 +17,19 @@ Requires 2 separate power sources as 1 USB power bank alone cannot supply enough
 
 <img src="https://cloud.githubusercontent.com/assets/13679090/9113139/6f3798b8-3c85-11e5-9a35-5118701616c9.jpg" width="480px">
 
+<br/> 
 
+### Libraries Used: 
+
+[1] FATFileSystem - http://developer.mbed.org/users/mkilivan/code/FATFileSystem/ 
+
+[2] SDFileSystem - http://developer.mbed.org/users/rs27/code/SDFileSystem/ 
+
+[3] IRremote - http://mbed.org/users/leejong87/code/IRremote/ 
+
+[4] RHT03 - http://developer.mbed.org/users/tristanjph/code/RHT03/ 
+
+<br/> 
 
 ### References: 
 
